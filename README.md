@@ -1,5 +1,12 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=herisonAssuncao&color=red)
+## Hello, I'm Hérison Assunção! 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herisonAssuncao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+I'm a full stack developer, graduated in computer science.
+
+### Follow me
+
+- [Linkedin](https://www.linkedin.com/in/herisonroque/)
+
+
 

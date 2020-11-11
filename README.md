@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=herisonAssuncao)
+![](https://komarev.com/ghpvc/?username=herisonAssuncao&color=green)
 
 Here are some ideas to get you started:
 

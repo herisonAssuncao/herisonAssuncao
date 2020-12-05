@@ -18,5 +18,6 @@ I'm a full stack developer, graduated in computer science.
 ### Follow me
 
 - [Linkedin](https://www.linkedin.com/in/herisonroque/)
+- [Medium](https://herisonassuncao.medium.com/)
 
 
